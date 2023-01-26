@@ -21,6 +21,6 @@ Write-Output 'Thanks for stopping by'
 ```
 
 <br>
-Hi, I am Zach. I love technology, music, and above all.. my dogs. 
+Hi, I am Zach. 
 
-On this page you can find links to my github, linkedin, email and a PDF copy of my current resume. Please feel free to reach out directly via email or connect with me on Linkedin.
+I love technology, music, and above all.. my dogs. On this page you can find links to my github, linkedin, email and a PDF copy of my current resume. Please feel free to reach out directly via email or connect with me on Linkedin.
