@@ -1,1 +1,7 @@
-{% link resume.pdf %}
+---
+layout: page
+title: Resume
+#permalink: /resume/
+---
+
+{% link /resume.pdf %}
