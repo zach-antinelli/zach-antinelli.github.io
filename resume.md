@@ -1,1 +1,0 @@
-({% link resume.pdf %})
