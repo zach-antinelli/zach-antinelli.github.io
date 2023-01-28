@@ -10,16 +10,21 @@ print('Hi.')
 ```
 
 ```shell
-echo 'Welcome to my site!'
+echo 'Welcome to my landing page!'
 ```
 
 ```powershell
-Write-Output 'Check out my resume in the upper right or links at the bottom.'
+Write-Output 'Its kinda like a business card, but with pictures of my dogs'
 ```
 
 <br><br>
-Hi, I am Zach. I live in Vancouver, WA (right by Portland, OR). I love technology, music, fitness, the outdoors, but above all.. my dogs, Bubba and Bear!
+Hi, I am Zach. I live in Vancouver, WA (right across the river from Portland, OR). In my free time I like learning about and keeping up with tech, playing and listening to music, fitness, the outdoors, and my dogs, Bubba and Bear who seem to take up most of my free time these days.
 
-This is my simple landing page to provide some info about myself and relevant resources. Here you can find links to my github, linkedin, email and a PDF copy of my current resume. 
+<br>
+{:refdef: style="text-align: center;"}
+<img src="/assets/img/bubba.jpg" alt="Bubba" title="Bubba">
+<img src="/assets/img/bear.jpg" alt="Bear" title="Bear">
+{: refdef}
 
-Please feel free to reach out directly via email or connect with me on Linkedin.
+<br><br>
+Here you can find links to my Github, Linkedin, email and a PDF copy of my current resume. Please feel free to reach out directly via email and I would love to connect with you on Linkedin, so free free to send me a request.
