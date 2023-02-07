@@ -18,7 +18,9 @@ Write-Output 'Its kinda like a business card, but with pictures of my dogs'
 ```
 
 <br><br>
-Hi, I am Zach. I live in Vancouver, WA (right across the river from Portland, OR). In my free time I like learning about and keeping up with tech, playing and listening to music, fitness, the outdoors, and my dogs, Bubba and Bear who seem to take up most of my free time these days.
+Hi, I am Zach. I live in Vancouver, WA (right across the river from Portland, OR). I am an enthusiastic Engineer that works in the technology space, mainly focusing on automation, operations and security. 
+
+I love learning about new things. Currently I am expanding my knowledge of cloud concepts and security. In my free time I like learning about and keeping up with tech, playing and listening to music, fitness, the outdoors, and my dogs, Bubba and Bear (some images for you below).
 
 <br>
 {:refdef: style="text-align: center;"}
