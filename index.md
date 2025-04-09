@@ -27,4 +27,4 @@ Hi, I am Zach. I live in Vancouver, WA (right across the river from Portland, OR
 {: refdef}
 
 <br><br>
-Here you can find links to my GitHub, LinkedIn, email and a PDF copy of my current resume. Please feel free to reach out directly via email or connect with me on LinkedIn.
+Here you can find links to my GitHub, Linkedin, email and a PDF copy of my current resume. Please feel free to reach out directly via email or connect with me on Linkedin.
